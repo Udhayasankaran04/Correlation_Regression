@@ -1,4 +1,4 @@
-# EXPNO-03 Correlation and regression for data analysis
+# EXP NO-03 Correlation and regression for data analysis
 # DATE:
 # Aim : 
 
